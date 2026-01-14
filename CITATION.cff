@@ -1,9 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: Minimal discriminating marker set finder
+message: 'If you use this software, please cite it as below.'
+type: software
 authors:
-- family-names: Gabelli
-  given-names: Giovanni
-  orcid: https://orcid.org/0009-0009-4251-3553
-title: "Minimal discriminating marker set finder"
-version: v1.0.0
-date-released: 2026-01-14
+  - given-names: Giovanni
+    family-names: Gabelli
+    email: giovanni.gabelli@unipd.it
+    affiliation: University of Padova
+    orcid: 'https://orcid.org/0009-0009-4251-3553'
+version: 1.0.0
+date-released: '2026-01-14'
