@@ -11,5 +11,8 @@ authors:
     email: giovanni.gabelli@unipd.it
     affiliation: University of Padova
     orcid: 'https://orcid.org/0009-0009-4251-3553'
+repository-code: >-
+  https://github.com/Gabelberg/minimal_discriminating_marker_set
+license: GPL-3.0
 version: 1.0.0
 date-released: '2026-01-14'
