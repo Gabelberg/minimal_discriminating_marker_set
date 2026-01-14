@@ -1,18 +1,9 @@
-cff-version: 1.2.0
-title: "Minimal discriminating marker set finder"
-message: "If you use this code, please cite it as below."
-type: software
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Gabelli
-    given-names: Giovanni
-    affiliation: Department of Agronomy, Food, Natural Resources, Animals and Environment at University of Padova
-    orcid: https://orcid.org/0009-0009-4251-3553
-version: 1.0.0
+- family-names: Gabelli
+  given-names: Giovanni
+orcid: https://orcid.org/0009-0009-4251-3553
+title:
+version: v1.0.0
 date-released: 2026-01-14
-license: GNU general Public Licence v3
-repository-code: "https://github.com/Gabelberg/minimal_discriminating_marker_set"
-keywords:
-  - R
-  - reproducible research
-  - genomics
-  - bioinformatics
