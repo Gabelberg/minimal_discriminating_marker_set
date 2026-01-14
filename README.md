@@ -1,4 +1,4 @@
-# Minimal_discriminating_marker_set
+# Minimal discriminating marker set finder
 
 ## Description
 This repository contains R code to perform a simple analysis aimed at identifying, within a collection of sample genotypes, the smallest possible set of markers capable of discriminating all samples.  
