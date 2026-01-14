@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: Gabelli
   given-names: Giovanni
-orcid: https://orcid.org/0009-0009-4251-3553
+  orcid: https://orcid.org/0009-0009-4251-3553
 title:
 version: v1.0.0
 date-released: 2026-01-14
