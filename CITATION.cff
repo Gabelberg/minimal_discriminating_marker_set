@@ -4,6 +4,6 @@ authors:
 - family-names: Gabelli
   given-names: Giovanni
   orcid: https://orcid.org/0009-0009-4251-3553
-title:
+title: "Minimal discriminating marker set finder"
 version: v1.0.0
 date-released: 2026-01-14
