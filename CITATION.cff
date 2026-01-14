@@ -1,12 +1,11 @@
 cff-version: 1.2.0
-title: Minimal discriminating marker set finder
+title: "Minimal discriminating marker set finder"
 message: "If you use this software, please cite it as below."
 type: software
 authors:
 - given-names: Giovanni
   family-names: Gabelli
   orcid: "https://orcid.org/0009-0009-4251-3553"
-repository-code: https://github.com/Gabelberg/minimal_discriminating_marker_set
-license: GPL-3.0
+license: "GPL-3.0"
 version: 1.0.0
-date-released: 2026-01-14
+
