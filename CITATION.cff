@@ -5,7 +5,6 @@ type: software
 authors:
   - given-names: Giovanni
     family-names: Gabelli
-    affiliation: University of Padova
     orcid: 'https://orcid.org/0009-0009-4251-3553'
 repository-code: "https://github.com/Gabelberg/minimal_discriminating_marker_set"
 license: GPL-3.0
