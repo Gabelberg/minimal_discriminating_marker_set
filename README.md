@@ -39,4 +39,4 @@ In the R folder there are three R files:
 GNU General Public License v3.0
 
 ## Citation
-See CITATION.cff
+Betto A, Scariolo F, Gabelli G, Riommi D, Farinati S, Vannozzi A, Palumbo F, Barcaccia G. ddRADseq Applications for Petunia × hybrida Clonal Line Breeding: Genotyping and Variant Identification for Target-Specific Assays. Horticulturae. 2026; 12(2):160. https://doi.org/10.3390/horticulturae12020160
